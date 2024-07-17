@@ -2,11 +2,11 @@
 
 - 🔭 **_I’m currently working on_**: Building out my NodeJS Portfolio
 
-![Logo](https://github-profile-trophy.vercel.app/?username=jzvi12)
+![Logo](https://github-profile-trophy.vercel.app/?username=shelomito12)
 
 - 🌱 **_I’m currently learning_**: Javascript, TypeScript, APIs, and more!
 
-![Logo](https://github-readme-streak-stats.herokuapp.com/?user=jzvi12)
+![Logo](https://github-readme-streak-stats.herokuapp.com/?user=shelomito12)
 
 ## 🛠 Skills
 
@@ -14,10 +14,10 @@
 
 ###
 
-![Logo](https://github-readme-stats.vercel.app/api/top-langs/?username=jzvi12)
+![Logo](https://github-readme-stats.vercel.app/api/top-langs/?username=shelomito12)
 
 <!--
-**jzvi12/jzvi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shelomito12/shelomito12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
